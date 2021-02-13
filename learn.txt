@@ -6,3 +6,6 @@ We first select the first one and press "commit new file".
 
 After it has been saved we clck on "learn.txt" and click on edit option.On making changes we press-"Commit Changes" and also add a note-"Adding Line 7."
 Repeating the above i.e Line 7 function
+
+On clicking the history page we get a series of changes that has been made.Observe that on clicking the option we can view the changes made which are highlighted by the green color.Also note that on clicking <> button we can view the state of our files before the changes or modifications were made.
+Also take a note of the weird long number which appears both at the URL end and the right side....that number is known as the "Commit Hash" and it is unique corresponding to that particular commit change
