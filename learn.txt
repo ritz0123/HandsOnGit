@@ -1,0 +1,5 @@
+We first create a Repository with a particular name.[Note that the name can never have spaces,so if we enter a name with spaces,git adds a hyphen in those spaces]
+Next we clik the "add new file" and give a name("learn.txt") to the file which will be contained in this "HandsOnGit" repository.
+Now we wish to save this file but observe that there is no such save option.Rather we have a "commit new file".Can be though of as a "save" option.
+Observe that there are two options-The 1st being "Commit directly to the main branch".2nd being "Create a new branch..."
+We first select the first one and press "commit new file".
